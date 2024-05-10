@@ -91,5 +91,4 @@ while True:
     all_costs.append(costs_part)
     part_number += 1
 
-# Call the modified function with the list of costs
 calculate_payment(all_costs)
